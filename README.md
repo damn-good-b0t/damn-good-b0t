@@ -13,7 +13,7 @@ Feel free to explore my repositories. Let's automate the world together! 🚀
 
 # Support / Feedback
 
-If you've got questions or feedback to open PRs, please tag this account and [**@a-mnich**](https://github.com/a-mnich) or send an email to the address linked in this profile. 
+If you've got questions or feedback to open PRs, please tag this account and [**@a-mnich**](https://github.com/a-mnich) or send an email to [gh@b0t.at](mailto:gh@bot.at). 
 
 ---
 - 🛠️ Developed by [**@a-mnich**](https://github.com/a-mnich) and [**@Utesgui**](https://github.com/Utesgui).
